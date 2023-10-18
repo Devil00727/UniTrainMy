@@ -11,6 +11,7 @@ UniTrain is an open-source, unified platform for effortless machine learning mod
 ```pip install torch```    
 
 # Usage
+# MIne
 
 ## Training  
 ### Classification  
